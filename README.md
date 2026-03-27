@@ -137,7 +137,7 @@ source .venv/bin/activate  # Linux / macOS
 ## Spustenie
 
 ```bash
-jupyter notebook Dimplomová_práca_CRISP-DM.ipynb
+jupyter notebook Dimplomová_práca_CRISP_DM.ipynb
 ```
 
 
