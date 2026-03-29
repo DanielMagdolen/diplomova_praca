@@ -1,6 +1,6 @@
 # Metódy objavovania znalostí z časových radov
 
-Tento repozitár obsahuje praktickú časť diplomovej práce zameranej na analýzu a predikciu časových radov v oblasti realitného trhu. Projekt implementuje kompletný analytický pipeline podľa metodiky CRISP-DM a porovnáva výkonnosť štatistických a neurónových modelov na reálnych dátach.
+Tento repozitár obsahuje praktickú časť diplomovej práce zameranej na analýzu a predikciu časových radov v oblasti realitného trhu. Projekt implementuje kompletný analytický pipeline podľa metodiky CRISP-DM a porovnáva výkonnosť štatistických a neurónových modelov na dátach.
 
 ## Autor
 
